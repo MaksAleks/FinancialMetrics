@@ -24,7 +24,7 @@ class LatestSumCalculator(
             results.add(instrument)
         }
         if (results.size > numMonths) {
-            results = results.take(numMonths).toSortedSet(Comparator.reverseOrder())
+            results = TreeSet(results.headSet(results.last()))
         }
     }
 }

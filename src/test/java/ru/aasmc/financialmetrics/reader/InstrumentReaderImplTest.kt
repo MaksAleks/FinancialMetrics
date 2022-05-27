@@ -46,7 +46,8 @@ internal class InstrumentReaderImplTest {
 
         val instrumentThreeMetric = LatestSumCalculator(
             name = "INSTRUMENT3",
-            instrumentThreeFilters
+            filters = instrumentThreeFilters,
+            numMonths = 10
         )
         reader = InstrumentReaderImpl(
             pathToFile = "test_input.txt",

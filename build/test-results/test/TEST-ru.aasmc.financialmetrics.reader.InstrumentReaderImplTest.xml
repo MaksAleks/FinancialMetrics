@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.aasmc.financialmetrics.reader.InstrumentReaderImplTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-27T17:07:35" hostname="MacBook-Pro-Alexander.local" time="0.081">
+<testsuite name="ru.aasmc.financialmetrics.reader.InstrumentReaderImplTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-27T17:39:06" hostname="MacBook-Pro-Alexander.local" time="0.089">
   <properties/>
-  <testcase name="testInstrumentOne()" classname="ru.aasmc.financialmetrics.reader.InstrumentReaderImplTest" time="0.068"/>
-  <testcase name="testInstrumentTwo()" classname="ru.aasmc.financialmetrics.reader.InstrumentReaderImplTest" time="0.005"/>
-  <testcase name="testInstrumentThree()" classname="ru.aasmc.financialmetrics.reader.InstrumentReaderImplTest" time="0.007"/>
+  <testcase name="testInstrumentOne()" classname="ru.aasmc.financialmetrics.reader.InstrumentReaderImplTest" time="0.074"/>
+  <testcase name="testInstrumentTwo()" classname="ru.aasmc.financialmetrics.reader.InstrumentReaderImplTest" time="0.007"/>
+  <testcase name="testInstrumentThree()" classname="ru.aasmc.financialmetrics.reader.InstrumentReaderImplTest" time="0.006"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
